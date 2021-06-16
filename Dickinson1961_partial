@@ -1,0 +1,5 @@
+product_disctribution		potential(V)	i	CO2	O2	C2H6	CE(C2H6)	i(c2h6)	i(O2)	product_disctribution		potential(V)	i	CO2_	O2_	C2H6_	CE(C2H6)	i(C2H6)	i(O2)
+electrode	C(elelctrolyte)	2.1	1.5	19.1	73.7	0	0	0.00	1.50	electrode	C(elelctrolyte)	1.72	0.25	14.7	79.3	0	0	0	0.25
+Pt	1M	2.23	2.2	35.7	37.1	16.7	6.1	0.13	2.07	Ir	1M	2.01	0.5	31.9	42.8	17.4	7.7	0.0385	0.4615
+		2.34	14.8	55.2	2.8	34.6	60.8	9.00	5.80			2.15	7	56.3	2.7	39.4	70.7	4.949	2.051
+		2.48	138.5	61	2.5	33.1	79.5	110.11	28.39			2.3	84.2	54.6	2.2	40.6	85	71.57	12.63
